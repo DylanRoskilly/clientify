@@ -1,2 +1,3 @@
 # clientify
-Generate Rust clients from OpenAPI specifications
+
+Generate type-safe, asynchronous Rust API clients from OpenAPI specifications
